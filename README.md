@@ -11,3 +11,6 @@ Merge-commit PR for YOLOcat.
 
 ## YOLO v2
 Force a merge commit.
+
+## YOLO v3
+Merged bypassing a required review.
